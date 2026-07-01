@@ -6,6 +6,8 @@ The repositories here are designed as public delivery samples for freelance clie
 
 ## Showcase Repositories
 
+- [next-ssr-dashboard](https://github.com/ceenworks/next-ssr-dashboard): Next.js App Router SSR dashboard with metadata, JSON-LD, deployment gates, and tests.
+- [rag-knowledge-search](https://github.com/ceenworks/rag-knowledge-search): dependency-light RAG knowledge search demo with chunking, local embeddings, citation search, and tests.
 - [fullstack-admin-dashboard](https://github.com/ceenworks/fullstack-admin-dashboard): full-stack dashboard demo with a Node.js API and browser UI.
 - [ai-workflow-automation](https://github.com/ceenworks/ai-workflow-automation): CSV automation pipeline for classifying tickets and generating reports.
 - [api-integration-starter](https://github.com/ceenworks/api-integration-starter): Java API integration starter with tests.
